@@ -1,4 +1,4 @@
 targets:
   $default:
     sources:
-      - lib/models/user.dart
+      - lib/models/users.dart

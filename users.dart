@@ -1,15 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 
-part 'user.freezed.dart';
+part 'users.freezed.dart';
 
 @freezed
-abstract class User with _$User {
-  const factory User({
+abstract class Users with _$Users {
+  const factory Users({
     @Default("") String id,
     @Default("")String name,
     @Default("")String email,
-}) = _User;
+  }) = _Users;
 }
-
-

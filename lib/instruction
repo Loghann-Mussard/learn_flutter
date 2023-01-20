@@ -1,0 +1,12 @@
+devtool, regarder
+aller sur le site de flutter et regarder les widget de haut niveau et material design.
+listView widget
+bouton qui capte un event et au clik ça modifie la listView avec setState ligne 40
+utiliser le Row pour voir sa répartition
+
+programation fonctionnel
+structure de donnée immutable => FREEZED à regarder
+
+state mamnagement
+RIVERPODE => ALERTERNATIVE A PROVIDER: c'est une structure de donnée
+consumer => lis une structure de donnée
